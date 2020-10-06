@@ -16,3 +16,5 @@ Hi,This project is about a robot to send orders online on the Iran Stock Exchang
 
 نویسنده این ربات هیچ نوع مسئولیت در رابطه با این برنامه قبول نمی کند و شما با استفاده از این برنامه ریسک های آن را می پذیرید.
 
+contact : hi@mkhorasani.ir
+
