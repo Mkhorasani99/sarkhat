@@ -1,7 +1,11 @@
 # sarkhat
 Hi,This project is about a robot to send orders online on the Iran Stock Exchange. This bot is written using JavaScript language. Sarkhat is an extension for the Chrome browser.
 
-<body style="direction:rtl;">
+
+<h2>V1.0.0</h2>
+
+
+
 برنامه سرخط با استفاده از زبان جاوااسکریپت و تحت اکستنشن گوگل کروم نوشته شده است. برای استفاده از این برنامه کافی است مراحل زیر را طی کنید:
 <br>
 1- ابتدا پروژه را دانلود کنید.
@@ -16,12 +20,12 @@ Hi,This project is about a robot to send orders online on the Iran Stock Exchang
 <br>
 5- با کلیک روی Load Unpacked پوشه برنامه را انتخاب کنید.
 <br>
-<strong style="color:red;">نکته:</strong> برای این برنامه را در نوار اکستنشن ها مشاهده کنید کافی است بر روی علامت پازل در نوار اکستنشن ها برنامه سرخط را پین کنید
+<strong>نکته:</strong> برای این برنامه را در نوار اکستنشن ها مشاهده کنید کافی است بر روی علامت پازل در نوار اکستنشن ها برنامه سرخط را پین کنید
 <br>
 حتما بعد از نصب برای کارکرد صحیح ربات نکات و دستورات درون برنامه را مطالعه کنید.
 <br>
 نویسنده این ربات هیچ نوع مسئولیت در رابطه با این برنامه قبول نمی کند و شما با استفاده از این برنامه ریسک های آن را می پذیرید.
 <br>
- </body>
+
 contact : hi@mkhorasani.ir
 
