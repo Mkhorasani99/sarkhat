@@ -1,0 +1,62 @@
+body {
+  direction: rtl;
+  height: 100px;
+}
+a,a:hover {
+  text-decoration: none;
+}
+label,input {
+  display: block;
+}
+.container {
+  margin: 30px 5px 30px 5px;
+}
+label {
+  font-size: .8rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+input {
+  margin: 5px 0;
+  padding: 5px;
+  font-size: .9rem;
+  width: 97%;
+}
+button {
+  padding: 10px 40px;
+  margin: 10px auto;
+  display: block;
+  border-radius: 10px;
+  background: #b2ebf2;
+  color: #00838f;
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: .3s;
+  box-shadow: 0 0 15px #e0f7fa;
+}
+button:focus {
+  outline: none;
+}
+button:hover {
+  background: #80deea;
+  box-shadow: 0 0 15px #b2ebf2;
+}
+#status {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  direction: ltr;
+  padding: 7px 15px;
+  background: #a5d6a7;
+  border-radius: 3px;
+  color: #2e7d32;
+  box-shadow: 0 0 16px #81c784;
+}
+.CopyRight {
+  text-align: center;
+  color: #666;
+}
+.CopyRight strong {
+  color: #666;
+}

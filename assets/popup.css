@@ -1,0 +1,102 @@
+body {
+  direction: rtl;
+  width: 300px;
+}
+.header {
+  text-align: center;
+}
+.header span {
+  display: block;
+  text-align: center;
+  background: green;
+  width: 70%;
+  margin: 5px auto;
+  top: 10px;
+  right: 10px;
+  padding: 10px 25px;
+  border-radius: 5px;
+  background: #a5d6a7;
+  box-shadow: 0 0 15px #c8e6c9;
+  color: #2e7d32;
+  font-size: .9rem;
+}
+.header span strong {
+  color: #c62828;
+}
+.header img {
+  width: 40%;
+  height: auto;
+}
+.content p {
+  font-size: .8rem;
+}
+.content ul {
+  padding-right: 20px;
+  line-height: 1.8;
+  height: 200px;
+  overflow-y: scroll;
+}
+.content ul::-webkit-scrollbar {
+  width: 5px;
+}
+.content ul::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+.content ul::-webkit-scrollbar-thumb {
+  background: #2196f3;
+  border-radius: 10px;
+}
+.content ul::-webkit-scrollbar-thumb:hover {
+  background: #1e88e5;
+}
+.button {
+  margin: 15px auto;
+  display: block;
+  text-align: center;
+}
+.button button {
+  padding: 10px 30px;
+      font-weight: bold;
+      border-radius: 5px;
+      border: none;
+      font-size: .9rem;
+}
+.button button#start {
+  margin-left: 10px;
+  background: #80cbc4;
+  box-shadow: 0 0 15px #b2dfdb;
+  color: #00695c;
+  transition: .3s;
+}
+.button button#start:hover {
+  background: #4db6ac;
+  box-shadow: 0 0 15px #80cbc4;
+}
+.button button#start:focus,.button button#stop:focus {
+  border: none;
+  outline: none;
+}
+.button button#stop {
+  margin-right: 10px;
+  background: #ef9a9a;
+  box-shadow: 0 0 15px #ffcdd2;
+  color: #c62828;
+  transition: .3s;
+}
+.button button#stop:hover {
+  background: #e57373;
+  box-sizing: 0 0 15px #ef9a9a;
+}
+.timeSend {
+  text-align: center;
+}
+.timeSend label {
+  font-weight: bold;
+}
+.timeSend input {
+  padding: 5px;
+}
+.timeSend input::-webkit-calendar-picker-indicator {
+    margin-left: 5px;
+}
