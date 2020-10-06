@@ -1,0 +1,27 @@
+
+{
+  "name": "sarkhat",
+  "version": "1.0",
+  "description": "https://github.com/Mkhorasani99/sarkhat                                 Extension by Mohammad Khorasani",
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  },
+  "permissions": ["tabs","<all_urls>","storage"],
+  "icons": {
+    "16": "assets/images/icon-sarkhat16.png",
+    "32": "assets/images/icon-sarkhat32.png",
+    "48": "assets/images/icon-sarkhat48.png",
+    "128": "assets/images/icon-sarkhat128.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "assets/images/icon-sarkhat16.png",
+      "32": "assets/images/icon-sarkhat32.png",
+      "48": "assets/images/icon-sarkhat48.png",
+      "128": "assets/images/icon-sarkhat128.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
